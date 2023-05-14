@@ -1,4 +1,4 @@
-### Let's rock 
+## Let's rock 
 
 <!--
 **godcodehunter/godcodehunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💼 For employers
-I don't:
+## 💼 For employers
+### I don't
   - deal with recruiters 
   - consider offers less than 8k$
   - [do unpaid work like consultations, coding, and so on](https://www.youtube.com/watch?v=FFrag8ll85w)
   - consider working from the office
+  - respond from anywhere other than email and linkedin
