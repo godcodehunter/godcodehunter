@@ -21,4 +21,4 @@ Here are some ideas to get you started:
   - consider offers less than 8k$
   - [do unpaid work like consultations, coding, and so on](https://www.youtube.com/watch?v=FFrag8ll85w)
   - consider working from the office
-  - respond from anywhere other than email and linkedin
+  - [respond from anywhere other than email and linkedin](https://youtu.be/L3oOldViIgY?t=258)
