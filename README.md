@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 I don't:
   - deal with recruiters 
   - considering offers less than 8k$
-  - do unpaid work, like: consultations, code test, and so on 
+  - do unpaid work, like: consultations, coding, and so on 
   - consider working from the office
