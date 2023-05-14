@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 💼 For employers
+I don't:
+  - deal with recruiters 
+  - considering offers less than 8k$
+  - unpaid work, like: consultations, code test, and so on 
+  - consider working from the office
