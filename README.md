@@ -7,7 +7,7 @@
 
 ### ⛔ I don't
   - deal with recruiters 
-  - consider offers less than 8k$
+  - consider offers less than 5k$
   - [do unpaid work like consultations, coding, and so on](https://www.youtube.com/watch?v=FFrag8ll85w)
   - consider working from the office
   - [respond from anywhere other than email and linkedin](https://youtu.be/L3oOldViIgY?t=258)
