@@ -1,6 +1,10 @@
 ## 🎸 Let's rock 
 [Who am i?](https://www.youtube.com/watch?v=jtXX3aAPPwg) Genius, billionaire, playboy, philanthropist... my decadence is any low-level programming, working with hardware, hacking and systems analysis, reading papers and the most favourite development of language tools such as linkers, compilers and so on.  
 
+## 🛠️ Pet project
+
+[smithpiler](https://github.com/godcodehunter/smithpiler/tree/recursive-descent-parser) - A C compiler written in Rust as a backend to LLVM. This is my final qualifying work. It does not cover a lot of the C language, and will probably only compile some specially selected code. But it is a real compiler that shows the principles and architecture of designing such projects.
+
 ## 💼 For employers
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-opokin/)
 [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
