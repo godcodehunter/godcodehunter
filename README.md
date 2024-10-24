@@ -5,6 +5,8 @@
 
 [smithpiler](https://github.com/godcodehunter/smithpiler/tree/recursive-descent-parser) - A C compiler written in Rust as a backend to LLVM. This is my final qualifying work. It does not cover a lot of the C language, and will probably only compile some specially selected code. But it is a real compiler that shows the principles and architecture of designing such projects.
 
+[Turing machine](https://github.com/godcodehunter/turing_machine) - Implementation of a Turing Machine
+
 ## 💼 For employers
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-opokin/)
 [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
